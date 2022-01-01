@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Premier_institue_of_jalna/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Premier_institue_of_jalna/static/js/main.1f6ea34f.chunk.js",
+    "main.js.map": "/Premier_institue_of_jalna/static/js/main.1f6ea34f.chunk.js.map",
+    "runtime-main.js": "/Premier_institue_of_jalna/static/js/runtime-main.44baa747.js",
+    "runtime-main.js.map": "/Premier_institue_of_jalna/static/js/runtime-main.44baa747.js.map",
+    "static/js/2.d125bf0f.chunk.js": "/Premier_institue_of_jalna/static/js/2.d125bf0f.chunk.js",
+    "static/js/2.d125bf0f.chunk.js.map": "/Premier_institue_of_jalna/static/js/2.d125bf0f.chunk.js.map",
+    "static/js/3.1e5f6180.chunk.js": "/Premier_institue_of_jalna/static/js/3.1e5f6180.chunk.js",
+    "static/js/3.1e5f6180.chunk.js.map": "/Premier_institue_of_jalna/static/js/3.1e5f6180.chunk.js.map",
+    "index.html": "/Premier_institue_of_jalna/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Premier_institue_of_jalna/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d125bf0f.chunk.js.LICENSE.txt": "/Premier_institue_of_jalna/static/js/2.d125bf0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44baa747.js",
+    "static/js/2.d125bf0f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1f6ea34f.chunk.js"
+  ]
+}
